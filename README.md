@@ -1,6 +1,6 @@
 # Py_Website
 
-*Creating accounts/n
+*Creating accounts
 *Logging in
 *logging out
 *Taking notes
